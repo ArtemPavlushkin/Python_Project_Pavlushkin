@@ -6,7 +6,7 @@ while True:
      c = int(input("Введите третье число: "))
      break
  except ValueError:
-     print("Введите целое число!")
+     print("Введите целое число!!!")
      continue
 if a==b or b==c or c==a:
     print(True)
