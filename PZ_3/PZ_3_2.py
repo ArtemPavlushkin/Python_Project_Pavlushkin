@@ -9,6 +9,7 @@ while True:
   except ValueError:
       print("Введие челое число!!!")
       continue
+#Проверка значений
 if a==b:
     a,b = 0, 0
     print (a,b)
