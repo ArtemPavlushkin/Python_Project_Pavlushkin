@@ -15,4 +15,4 @@ def vichitanie_summi(n):
         i = i + 1
     return i
 t = int(input("Введите число: "))
-print(vichitanie_summi(t))
+print(vichitanie_summi(t))#hdjhvjxhkfhbkjfchkbjhcfjb
